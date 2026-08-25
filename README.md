@@ -132,8 +132,6 @@ The dashboard enables users to identify:
 
 ![Motorola Mobile Sales Dashboard](dashboard.png)
 
-> **Note:** Replace `dashboard.png` with the actual filename of your dashboard screenshot when uploading it to your GitHub repository.
-
 ---
 
 ## 📁 Project Structure
